@@ -1,5 +1,5 @@
 # 💫 About Me:
-Interested in all things cybersecurity. Aspiring developer.
+Cybersecurity professional. Pursuing roles in security engineering, red teaming, and application security.
 
 
 # 💻 Tech Stack:
