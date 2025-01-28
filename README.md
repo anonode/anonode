@@ -3,7 +3,7 @@ Cybersecurity professional. Pursuing roles in security engineering, red teaming,
 
 You may also know me as `rakpa` from various CTFs I've done.
 
-Here is a link to my [blog](https://anonode.github.io/)
+Here is a link to my cybersecurity [blog](https://anonode.github.io/)!
 
 
 # 💻 Tech Stack:
