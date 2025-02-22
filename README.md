@@ -1,5 +1,5 @@
 # 💫 About Me:
-Cybersecurity professional. Pursuing roles in security engineering, red teaming, and application security.
+Cybersecurity professional. Pursuing roles in security engineering, and application security.
 
 You may also know me as `rakpa` from various CTFs I've done.
 
